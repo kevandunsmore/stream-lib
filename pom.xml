@@ -21,6 +21,20 @@
     </license>
   </licenses>
 
+  <distributionManagement>
+    <repository>
+      <id>crittercism</id>
+      <name>crittercism-releases</name>
+      <url>http://crittercism.artifactoryonline.com/crittercism/libs-releases-local</url>
+    </repository>
+
+    <snapshotRepository>
+      <id>crittercism</id>
+      <name>crittercism-snapshots</name>
+      <url>http://crittercism.artifactoryonline.com/crittercism/libs-snapshots-local</url>
+    </snapshotRepository>
+  </distributionManagement>
+
  <properties>
     <project.build.targetJdk>1.7</project.build.targetJdk>
   </properties>

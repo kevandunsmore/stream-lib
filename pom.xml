@@ -8,9 +8,9 @@
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.clearspring.analytics</groupId>
-  <artifactId>stream</artifactId>
+  <artifactId>stream-kevandunsmore-internal</artifactId>
   <packaging>jar</packaging>
-  <version>2.9.2-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>stream-lib</name>
   <description>A library for summarizing data in streams for which it is infeasible to store all events</description>
   <url>https://github.com/addthis/stream-lib</url>
